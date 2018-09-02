@@ -1,0 +1,49 @@
+/* Customized style elements
+	========================================================================== */
+p {
+	font-family: "Courier New", Times, serif;
+	/*background-color: white;*/
+	/*color: green;*/
+}
+
+h1 {
+	color: yellow;
+}
+
+h2 {
+	color: green;
+}
+
+.content {
+	width: 80%;
+	color: black;
+	background-color: white;
+	padding: 10px;
+	border: 10px solid black;
+	margin: 20px;
+}
+
+.header {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
+	background-color: white;
+}
+
+.footer {
+	width: 70%;
+	color: white;
+	background-color: red;
+	padding: 30px;
+	border: 1px solid black;
+	margin: 20px;
+}
+
+.home {
+	margin: 20px;
+}
+
+.logo {
+	color: yellow;
+}
